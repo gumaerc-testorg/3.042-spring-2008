@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 5e9712bd-8af8-614a-a0ad-b091b6db4aa7
 resourcetype: Other
 title: Microsoft Excel Gantt Chart
 uid: 5efbcc06-38a7-7ffc-9835-9beb830734c3

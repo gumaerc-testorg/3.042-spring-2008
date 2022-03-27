@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 5e9712bd-8af8-614a-a0ad-b091b6db4aa7
 resourcetype: Document
 title: Team Hemony Final Presentation
 uid: f746e32b-d0a1-ec88-7564-234ea3437f13

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 5e9712bd-8af8-614a-a0ad-b091b6db4aa7
 resourcetype: Other
 title: Microsoft Project Gantt Chart
 uid: 66f11d9d-9b29-3b09-ca8a-9f2c9c03bcbf

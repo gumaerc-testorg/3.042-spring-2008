@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on course projects including project
+  characteristics, project management, presentations, past projects, and an example
+  of student work.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 5e9712bd-8af8-614a-a0ad-b091b6db4aa7
 ---
@@ -25,8 +31,8 @@ Efficient project management is vital to timely and effective progress in 3.042.
 
 Gantt charts can be prepared by hand, but it is much easier to make and update them using software tools. Two methods you might consider include:
 
-*   Microsoft Excel ([XLS]({{< baseurl >}}/resources/gantt))
-*   Microsoft Project ([MPP]({{< baseurl >}}/resources/gantt-1))
+*   Microsoft Excel ({{% resource_link 5efbcc06-38a7-7ffc-9835-9beb830734c3 "XLS" %}})
+*   Microsoft Project ({{% resource_link 66f11d9d-9b29-3b09-ca8a-9f2c9c03bcbf "MPP" %}})
 
 There is an [Open Source](http://sourceforge.net/projects/openproj/) version of Microsoft Project available for download from the Web.
 
@@ -96,4 +102,4 @@ Student Projects
 
 One student team this semester investigated the casting of bronze bells, analyzing their microstructure and tone quality. Their final presentation is presented as an example of student work for this course.
 
-Team Hemony Final Presentation ([PDF - 3.8 MB]({{< baseurl >}}/resources/s08_t2_finalpres)) (Courtesy Allison Kunz, Naomi Coronel, and Shakeel Avadhany. Used with permission.)
+Team Hemony Final Presentation ({{% resource_link f746e32b-d0a1-ec88-7564-234ea3437f13 "PDF - 3.8 MB" %}}) (Courtesy Allison Kunz, Naomi Coronel, and Shakeel Avadhany. Used with permission.)

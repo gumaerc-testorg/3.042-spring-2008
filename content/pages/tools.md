@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides a list of resources, common tools, and labs used
+  by students of the course.  Resources include hardware, software, other facilities,
+  safety guidelines, design concepts, and useful texts.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: ae1d56dd-1b23-71bf-b8c4-40efa1452dd7
 ---
@@ -83,7 +89,7 @@ Design is central in 3.042, and it is vital that your project be designed ration
 5.  Repeat steps 1 - 4 interactively until the design appears satisfactory.
 6.  Prepare detailed design and fabrication drawings (SolidWorks or equivalent).
 
-Cost Analysis ([PDF]({{< baseurl >}}/resources/costest))
+Cost Analysis ({{% resource_link f6c353ae-b67f-e352-7bf5-70b0de9d0cda "PDF" %}})
 
 Useful Texts
 ------------

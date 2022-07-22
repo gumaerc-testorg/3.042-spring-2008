@@ -5,6 +5,7 @@ file: /courses/3-042-materials-project-laboratory-spring-2008/66f11d9d9b293b09ca
 file_type: application/msword
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Microsoft Project Gantt Chart
 uid: 66f11d9d-9b29-3b09-ca8a-9f2c9c03bcbf
 ---
 Software tool for preparing a Gantt chart for the materials project laboratory.
-

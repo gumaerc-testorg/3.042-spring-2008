@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Software tool for preparing a Gantt chart for the materials project laboratory.
-file: /ol-ocw-studio-app/courses/3-042-materials-project-laboratory-spring-2008/5efbcc0638a77ffc98359beb830734c3_gantt.xls
+file: /courses/3-042-materials-project-laboratory-spring-2008/5efbcc0638a77ffc98359beb830734c3_gantt.xls
 file_size: 19456
 file_type: application/msword
 learning_resource_types:

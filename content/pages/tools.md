@@ -42,31 +42,31 @@ The following list of resources covers the most common tools and labs used by 3.
 
 ## Software
 
-- [SolidWorks](http://www.solidworks.com/)
-- [Ansys](http://www.ansys.com/)
-- [Dreamweaver](http://www.adobe.com/products/dreamweaver/)
+- {{% resource_link "9a576576-37ee-46ba-a257-53e68d935ad5" "SolidWorks" %}}
+- {{% resource_link "029663bf-91d5-449d-9719-d921c1208981" "Ansys" %}}
+- {{% resource_link "140f3eae-980c-48d1-bb33-24f787741260" "Dreamweaver" %}}
 - PowerPoint
-- Project / [Open Workbench](http://sourceforge.net/projects/openproj/)
-- [Cambridge Engineering Selector](http://www.grantadesign.com/products/ces/)
+- Project / {{% resource_link "6090b5f9-ef64-4b0b-a353-d488ad0f739f" "Open Workbench" %}}
+- {{% resource_link "6c98aefa-c80d-4fac-bfd6-c4f4506e7844" "Cambridge Engineering Selector" %}}
 
 ## Other Facilities
 
-- [CMSE Analysis Facility](http://web.mit.edu/cmse/facilities/analysis.html)
-- [Hobby Shop](http://hobbyshop.mit.edu/)
-- [Central Machine Shop](http://web.mit.edu/cmshop/)
+- {{% resource_link "45dc1b38-a300-48cd-9d3e-7eae80d5f950" "CMSE Analysis Facility" %}}
+- {{% resource_link "1a9efa6c-9e40-4033-b5a2-c43e856b473e" "Hobby Shop" %}}
+- {{% resource_link "d2b826d0-09f2-428f-a061-c164ace0cb95" "Central Machine Shop" %}}
 - Undergraduate Teaching Lab
 - Pappalardo Laboratory: Thermoforming, Wire Cutter
 - TELAMS: graphite-epoxy, layup, autoclave
 - Lab Supply (VWR)
-- [Edgerton Student Shop](http://web.mit.edu/Edgerton/www/Shop.html)
-- [Everett Pattern and Manufacturing](http://www.merchantcircle.com/business/Everett.Pattern.And.Manufacturing.Inc.978-777-4575)
+- {{% resource_link "20371fe2-1980-46e8-981a-a73a9e5ec9b9" "Edgerton Student Shop" %}}
+- {{% resource_link "9673a5ff-d136-4b19-8b99-6bde5d3c294d" "Everett Pattern and Manufacturing" %}}
 
 ## Safety
 
 - All students should be familiar with local safety guidelines and trained in their institutional safety program.
 - Students are never to work alone in a laboratory.
 - Each time a student team begins a new procedure or begins work in a new laboratory, they must develop a safety plan in coordination with a 3.042 instructor or the laboratory supervisor. When this plan is satisfactory to both the students and the supervisor, a copy should be given to the supervisor, and another placed in the Safety section of the team's 3.042 binder.
-- Before working with or purchasing a material, the associated Materials Safety Data Sheet (MSDS) should be obtained, read, discussed with the supervisor, and placed in the team binder. Most MSDS's are available from the Web; for instance see [this site](http://www.ilpi.com/msds/).
+- Before working with or purchasing a material, the associated Materials Safety Data Sheet (MSDS) should be obtained, read, discussed with the supervisor, and placed in the team binder. Most MSDS's are available from the Web; for instance see {{% resource_link "98dc8c73-3afb-48c7-a530-a1dda24260d3" "this site" %}}.
 
 ## Design Concepts
 

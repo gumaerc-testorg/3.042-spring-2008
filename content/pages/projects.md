@@ -34,7 +34,7 @@ Gantt charts can be prepared by hand, but it is much easier to make and update t
 *   Microsoft Excel ({{% resource_link 5efbcc06-38a7-7ffc-9835-9beb830734c3 "XLS" %}})
 *   Microsoft Project ({{% resource_link 66f11d9d-9b29-3b09-ca8a-9f2c9c03bcbf "MPP" %}})
 
-There is an [Open Source](http://sourceforge.net/projects/openproj/) version of Microsoft Project available for download from the Web.
+There is an {{% resource_link "6090b5f9-ef64-4b0b-a353-d488ad0f739f" "Open Source" %}} version of Microsoft Project available for download from the Web.
 
 Presentations
 -------------
